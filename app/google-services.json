@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396280504132",
+    "firebase_url": "https://fullsend-5c94d.firebaseio.com",
+    "project_id": "fullsend-5c94d",
+    "storage_bucket": "fullsend-5c94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396280504132:android:4fdec5af91f89936418111",
+        "android_client_info": {
+          "package_name": "com.example.fullsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396280504132-fgrpuk5uktuqno8h0nrl98mjprsud75r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fullsend",
+            "certificate_hash": "3c16cfdd5e41bd7dbbb2fd43d88a74ed422478db"
+          }
+        },
+        {
+          "client_id": "396280504132-5e6ramo6iclduuvri1ipao22vkrkcuvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX27945ikC3K1TyrbalFX_VTafamYWqRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396280504132-5e6ramo6iclduuvri1ipao22vkrkcuvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
